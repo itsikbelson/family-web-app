@@ -2,6 +2,22 @@
 
 ## Build Setup
 
+A very simple application built using VueJs, NuxtJS, Vuetify.
+Based on Three Columns wireframe, but was changed a lot.
+
+Has 2 main pages:
+* About Us (also used as home-page)
+* Trips
+
+These are the main steps I took as part of the development:
+
+
+There are many things still needs to be done:
+
+
+
+There's much more to learn.
+ 
 ```bash
 # install dependencies
 $ npm install
